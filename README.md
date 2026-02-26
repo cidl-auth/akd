@@ -1,6 +1,6 @@
-# Trustworthy Knowledge Distillation via Anchor-Guided Distribution Learning
+# AKD Tool: Trustworthy Knowledge Distillation via Anchor-Guided Distribution Learning
 
-This repo is for reproducing the CIFAR-100 experimental results in our paper Trustworthy Knowledge Distillation via Anchor-Guided Distribution Learning.
+This repo provides the AKD tool. Ready to use code for reproducing the CIFAR-100 experimental results in our paper Trustworthy Knowledge Distillation via Anchor-Guided Distribution Learning (AKD) is provided.
 
 
 To perform knowledge transfer from Resnet32x4 to Resnet8x4 on CIFAR-100 using AKD, run:
